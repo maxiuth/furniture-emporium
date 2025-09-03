@@ -8,13 +8,12 @@ h2 {
 }
 
 #page-description {
-  color: brown;
   font-size: 20px;
   font-weight: bold;
 }
 
 article {
-  background-color: white;
+  background-color: #edcece;
   border-radius: 20px;
   padding: 10px;
   border: 10px solid black;
@@ -22,7 +21,7 @@ article {
 }
 
 main {
-  background-color: gainsboro;
+  background-color: #e3e3c5;
 }
 
 button {
