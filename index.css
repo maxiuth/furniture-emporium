@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+article {
+  background-color: bisque;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+main {
+  background-color: gainsboro;
+}
